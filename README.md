@@ -1,2 +1,16 @@
-# Johnson-and-Johnson-JNJ-
+## Johnson and Johnson (JNJ)
 Johnson &amp; Johnson (JNJ) Financial Analysis
+
+Johnson & Johnson(JNJ), founded in 1887, is one of the world's largest and most broadly based healthcare companies, employing about 152,700 individuals across the world as of January 1, 2023. The global distribution of its workforce is strategic and diverse, with 34.2% located in North America, 20.2% in the Asia Pacific region, 29.0% in Europe, the Middle East, and Africa (EMEA), and 16.6% in Latin America, as represented in Figure 1. In parallel to its workforce distribution, Johnson & Johnson's sales figure also reflect its geographical reach, with the highest sales reported in the U.S. at $48.6 billion, $23.4 billion in Europe, $16.8 billion across the Asia-Pacific and Africa regions, and $6.1 billion in the Western Hemisphere excluding the U.S.[1] Further highlighting its global impact and status in the healthcare industry, Johnson & Johnson was named by Fortune magazine in 2023 as one of the World's Most Admired Companies, topping the pharmaceutical industry list.[2]
+The company is deeply involved in researching, developing, manufacturing, and marketing an extensive variety of healthcare products. They operate in three main segments, which in 2022 reported sales of $52.6 billion for Pharmaceuticals, $27.4 billion for MedTech, and $15.0 billion for Consumer Health(Figure 3). According to CNBC, the company forecasts up to 6% sales growth in 2024, driven by strong demand for cancer treatments and other medical products.[3]
+
+Consumer Health: This segment focuses on products in baby care, oral care, beauty, over-the-counter pharmaceuticals, women’s health, and wound care. Popular brands include such as Aveeno, Neutrogena, Tylenol, Sudafed, Band-Aid, and many others. It's known for familiar household items from skin products to medications aiding in smoking cessation and cold relief.[1]
+
+Pharmaceuticals: It focuses on developing prescription medicines for an array of therapeutic areas including immunology, infectious diseases, neuroscience, oncology, cardiovascular, and metabolism. It possesses a wide-ranging of products like Remicade, Stelara, and Concerta, addressing severe conditions such as rheumatoid arthritis, psoriatic arthritis, Crohn's disease, and schizophrenia. Many of these medications are leaders in their respective fields and are the result of both in-house development and strategic collaborations.[1]
+
+MedTech: The company produces a range of technology-driven products in fields like interventional solutions, orthopaedics, surgery, and vision care. It offers medical devices ranging from electrophysiology products to treat heart conditions to advanced surgical tools and technologies for eye health, including well-known brands like Acuvue contact lenses. The MedTech segment is essential for supporting healthcare professionals in providing comprehensive care and advanced treatment options.[1]
+
+REFERENCES
+1. https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/jnj-20230101.ht m#i51a46167ef364951bf70ae9d6493776c_109
+2. https://www.jnj.com/latest-news/johnson-johnson-named-a-2023-fortune-worlds-most-ad mired-company
+3. https://www.cnbc.com/2023/12/05/johnson-johnson-forecasts-as-much-as-6percent-sales- growth-in-2024.html
